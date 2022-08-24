@@ -7,7 +7,7 @@ To install this file:
 	- Click "Import", then open the file in the opened file prompt.
 	
 To use the language:
-	- In the top bar, click Language, then select the entry near the bottom that reads "IntroLogic" followed by a version number.
+	- In the top bar, click Language, then select the new entry near the bottom.
 
 To stop using the language:
 	- In the top bar, click Language, then select "None (normal text)".
