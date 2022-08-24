@@ -11,3 +11,5 @@ To use the language:
 
 To stop using the language:
 	- In the top bar, click Language, then select "None (normal text)".
+	
+See the Wiki for some images on what this looks like!
